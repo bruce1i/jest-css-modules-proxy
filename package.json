@@ -1,0 +1,37 @@
+{
+  "name": "jest-css-modules-proxy",
+  "version": "1.0.0",
+  "description": "Mocking css modules in jest.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruce1i/jest-css-modules-proxy.git"
+  },
+  "keywords": [
+    "jest",
+    "mock",
+    "mocking",
+    "css",
+    "style",
+    "cssmodule",
+    "cssmodules",
+    "css module",
+    "css modules"
+  ],
+  "author": "Bruce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bruce1i/jest-css-modules-proxy/issues"
+  },
+  "homepage": "https://github.com/bruce1i/jest-css-modules-proxy#readme",
+  "devDependencies": {
+    "@babel/core": "^7.20.2",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.3.1",
+    "jest": "^29.3.1"
+  }
+}
